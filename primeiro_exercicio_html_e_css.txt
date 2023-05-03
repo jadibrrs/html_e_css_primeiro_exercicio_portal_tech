@@ -37,4 +37,5 @@ RESOLUÇÃO:
 13. <label>
 14. <input>
 15. <select>
-16. <button>
+16. <button> (não está nas opções da imagem, mas é um botão, então deve receber <button>; acrededito que 
+    esqueceram de colocar essa opção)
