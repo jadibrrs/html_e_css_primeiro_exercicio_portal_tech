@@ -1,0 +1,40 @@
+Curso de Introdução à Programação 
+HTML/CSS
+
+Jadi Barros Heliodoro
+___________________________________________________________________________________________________________
+
+ATIVIDADE:
+
+Observe as três capturas de tela em anexo. Cada uma delas tem áreas sinalizadas e numeradas, 
+além de um grupo específico de tags HTML logo embaixo.
+
+Em um arquivo aparte, associe cada tag HTML com o respectivo número da área que o representa 
+(Exemplo: 1. footer, 2. input, etc...), suba esse arquivo para algum repositório e compartilhe 
+o link no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+Imagens em anexo no exercício:
+1. https://drive.google.com/file/d/1pYWNoZoBvhcZtuMqsVFsYnTg6_qkV6w_/view
+2. https://drive.google.com/file/d/1jKmujhGr4QJYfvEvuq4JbP50ylAk1OjH/view 
+3. https://drive.google.com/file/d/1Z-DNYnuiC0BfnkuYjelW3R8DLzZRaPtK/view
+
+___________________________________________________________________________________________________________
+
+RESOLUÇÃO:
+
+1. <header>
+2. <main>
+3. <nav>
+4. <img>
+5. <h1>
+6. <h2>
+7. <p>
+8. <a>
+9. <footer>
+10. <ul>
+11. <li>
+12. <form>
+13. <label>
+14. <input>
+15. <select>
+16. <button>
